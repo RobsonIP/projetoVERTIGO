@@ -9,5 +9,8 @@
 header {
     background-image: url(./imagens/bt-mobile.png);
     background-size: cover;
-    
+    height: 8.375rem;
+
+    display: flex;
+    justify-content: center;
 }
